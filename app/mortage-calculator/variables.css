@@ -1,0 +1,20 @@
+:root{
+    --lime:hsl(61, 70%, 52%);
+    --lime-darker:hsl(61, 70%, 42%);
+    --red:hsl(4, 69%, 50%);
+    --white:hsl(0, 0%, 100%);
+    --slate-100:hsl(202, 86%, 94%);
+    --slate-300:hsl(203, 41%, 72%);
+    --slate-500:hsl(200, 26%, 54%);
+    --slate-700:hsl(200, 24%, 40%);
+    --slate-900:hsl(202, 55%, 16%);
+    --plus-jakarta-sans:'Plus Jakarta Sans', sans-serif;
+    --font-500:500;
+    --font-700:700; 
+    --font-16:16px;
+
+    --mobile-max: 500px;
+    --desktop-max: 1440px;
+
+
+}
